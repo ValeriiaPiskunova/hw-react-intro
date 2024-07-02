@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/lucida-sans-unicode');
+@import url('https://fonts.cdnfonts.com/css/lucida-sans');
+
+
+main {
+    background-color: #3399cc;
+    border: 30px solid #2b81ac;
+    font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+li {
+    text-decoration: none;
+    list-style-type: none;
+}
